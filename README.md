@@ -1,6 +1,6 @@
-# RetroFacebookApp
+# RetroFacebookSimpleApp
 
-[![Build Status](https://travis-ci.org/yongjhih/RetroFacebookApp.svg)](https://travis-ci.org/yongjhih/RetroFacebookApp)
+[![Build Status](https://travis-ci.org/yongjhih/RetroFacebookSimpleApp.svg)](https://travis-ci.org/yongjhih/RetroFacebookSimpleApp)
 
 A https://github.com/yongjhih/RetroFacebook sample App
 
